@@ -1,0 +1,33 @@
+Data Visualization with ggplot2 (Part 1)
+
+Objective: To create various types of static plots using ggplot2.
+
+Task:
+In this assignment, students will focus on data visualization using the ggplot2 package in R. They will be provided with a dataset and will need to load it into R, use ggplot2 to create various types of static plots (bar charts, line graphs, scatter plots, and histograms), customize plot aesthetics, and provide insights based on the visualizations.
+
+Instructions:
+
+Provide students with a dataset (in a downloadable format, e.g., CSV) suitable for various types of static plots.
+
+Instruct students to perform the following tasks using ggplot2:
+a. Load the provided dataset into R using appropriate functions (e.g., read.csv or read.table).
+
+b. Use ggplot2 to create the following types of static plots:
+
+Bar charts
+Line graphs
+Scatter plots
+Histograms
+c. Customize the aesthetics of each plot to enhance readability and understanding. This includes adjusting colors, labels, titles, axes, and legends as needed.
+
+Encourage students to provide explanations or comments within their R script regarding the insights gained from each plot. They should interpret the visualizations and provide meaningful observations or conclusions.
+
+Ask students to consider the choice of plot type for different data scenarios. For example, when is a bar chart more suitable than a scatter plot?
+
+Instruct students to create a written report that includes the visualizations and insights based on each plot. The report should explain the rationale behind customization choices.
+
+Set a deadline for students to complete the tasks and submit their R script/code along with the written report.
+
+Submission:
+
+After completing the tasks, students should submit their R script/code and the written report (PDF or Word document) through the course's assignment submission portal.

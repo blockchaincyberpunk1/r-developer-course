@@ -1,0 +1,45 @@
+Building a Predictive Model
+
+Objective: To develop a complete predictive model from start to finish.
+
+Task:
+In this assignment, students will build a predictive model from scratch, starting with data preprocessing and ending with model evaluation and reporting. They will select a predictive modeling problem, prepare the dataset, choose an appropriate machine learning algorithm, train the model, evaluate its performance, fine-tune it if necessary, and present the results in a comprehensive report.
+
+Instructions:
+
+Problem Selection:
+a. Instruct students to choose a predictive modeling problem based on their interests or a real-world scenario. Possible problem types include binary classification (e.g., predicting customer churn), multi-class classification, or regression (e.g., predicting house prices).
+b. Encourage them to find a dataset related to their chosen problem. They can use publicly available datasets, data from Kaggle, or collect their own data if feasible.
+
+Data Preprocessing and Preparation:
+a. Guide students to perform data preprocessing tasks, such as handling missing values, encoding categorical variables, and scaling features. This step should be a continuation of Assignment 2.
+b. Emphasize the importance of splitting the data into training and testing sets, maintaining data integrity throughout.
+
+Model Selection:
+a. Introduce students to various machine learning algorithms, including logistic regression, decision trees, random forests, support vector machines, or other relevant algorithms based on the problem type.
+b. Instruct them to select an appropriate algorithm for their problem. They should justify their choice based on the nature of the problem and dataset.
+
+Model Training:
+a. Ask students to train their selected model using the training dataset.
+b. Encourage them to fine-tune hyperparameters, if necessary, to optimize model performance.
+
+Model Evaluation:
+a. Instruct students to evaluate the model's performance on the testing dataset using relevant evaluation metrics. For classification problems, metrics like accuracy, precision, recall, F1-score, and ROC-AUC are relevant. For regression, metrics like RMSE and R-squared can be used.
+b. Require them to provide detailed interpretations of the evaluation results.
+
+Fine-Tuning:
+a. If the model's performance is suboptimal, students should explore fine-tuning techniques, such as adjusting hyperparameters, feature selection, or trying different algorithms.
+b. Encourage them to document their fine-tuning process and explain the rationale behind each change.
+
+Reporting:
+a. Ask students to prepare a comprehensive report summarizing their entire modeling process. The report should include:
+
+Problem statement and dataset description.
+Data preprocessing and feature engineering details.
+Model selection and justification.
+Model training and fine-tuning.
+Model evaluation with clear interpretations.
+Insights gained from the modeling process.
+b. Students should use clear and concise language, providing figures and tables to support their findings.
+Presentation:
+a. Optionally, students can give a brief presentation of their modeling process and results to the class.

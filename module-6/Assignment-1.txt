@@ -1,0 +1,34 @@
+Exploratory Data Analysis (EDA)
+
+Objective: To perform exploratory data analysis (EDA) on a real-world dataset using R.
+
+Task:
+In this assignment, students will engage in exploratory data analysis (EDA) on a publicly available dataset of their choice. They will learn how to load, clean, and explore data, create various visualizations, and extract meaningful insights from the dataset.
+
+Instructions:
+
+Dataset Selection: Instruct students to choose a publicly available dataset from sources like Kaggle, government data repositories, or other relevant sources. Encourage them to select a dataset related to their interests or domain of study.
+
+Data Loading: Ask students to load the chosen dataset into R. They should use appropriate R packages (e.g., readr, read.csv) to read the data.
+
+Data Cleaning: Guide students in handling data preprocessing tasks, including:
+
+Handling missing values: Identify and address missing data appropriately (e.g., imputation or removal).
+Outlier detection and treatment: Identify outliers and decide whether to adjust or remove them.
+EDA Process: Instruct students to perform EDA by:
+
+Creating summary statistics: Calculate and display key statistics (e.g., mean, median, standard deviation) for relevant variables.
+Visualization: Encourage students to create various types of visualizations, such as histograms, scatter plots, box plots, bar charts, and heatmaps, to explore data distribution and relationships.
+Hypothesis testing (if applicable): If there are specific hypotheses related to the dataset, guide students on how to perform hypothesis tests to validate or refute those hypotheses.
+Insights and Patterns: Ask students to identify interesting patterns, correlations, and insights from the data. They should explore relationships between variables, detect trends, and consider potential implications.
+
+Report or Presentation: Students should present their EDA findings in a report or presentation. The report should include:
+
+Introduction to the dataset and its context.
+Data loading and cleaning procedures.
+Summary statistics and key visualizations.
+Interpretation of insights and patterns discovered.
+Conclusions and potential recommendations based on EDA results.
+Data Privacy and Ethics: Remind students to respect data privacy and ethical considerations when working with datasets, especially if they contain sensitive information.
+
+Submission: Students should submit their report (PDF or Word document) and any relevant R scripts or notebooks used in the analysis.

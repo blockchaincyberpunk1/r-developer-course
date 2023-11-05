@@ -1,0 +1,34 @@
+Data Version Control with Git
+
+Objective: To introduce version control for data science projects.
+
+Task:
+In this assignment, students will learn the basics of data version control using Git. They will apply version control to a simple data analysis project, emphasizing the importance of tracking changes, collaboration, and maintaining project reproducibility.
+
+Instructions:
+
+Data Analysis Project:
+a. Instruct students to create a simple data analysis project. This could be a Jupyter Notebook for Python or an R Markdown document for R.
+b. Encourage them to include multiple versions of code files, data files, or both. For example, they could analyze a dataset, make changes to the analysis, or update the dataset over time.
+c. Ensure that the project has clear data processing and analysis steps.
+
+Git Repository Setup:
+a. Teach students how to initiate a Git repository in the project's directory.
+b. Explain the concepts of commits, branches, and merges in Git.
+c. Instruct them on how to add and commit their project files to the Git repository.
+
+Version Control Workflow:
+a. Ask students to make a series of commits to track changes in their project. These commits should include explanations of what changes were made.
+b. Guide them to create branches to work on different features or experiments in their project.
+c. Show them how to merge branches back into the main project and resolve any conflicts that may arise.
+
+Benefits of Version Control:
+a. Encourage students to reflect on the benefits of using Git for data science projects. This may include:
+
+Maintaining a history of changes for reproducibility.
+Collaborating with team members by sharing the Git repository.
+Isolating experimental work in branches without affecting the main project.
+b. Ask them to provide real-world examples of when version control would be beneficial in data science projects.
+Documentation:
+a. Emphasize the importance of writing clear commit messages to describe changes.
+b. Instruct students to include a README file in their project, explaining the purpose of the project, how to reproduce it, and how to use Git for version control.

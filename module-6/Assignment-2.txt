@@ -1,0 +1,27 @@
+Data Preprocessing and Feature Engineering
+
+Objective: To practice data preprocessing and feature engineering techniques in preparation for predictive modeling.
+
+Task:
+In this assignment, students will work with a dataset suitable for predictive modeling and focus on data preprocessing and feature engineering tasks. They will learn how to prepare data for modeling by handling missing values, encoding categorical variables, scaling features, and creating or transforming features.
+
+Instructions:
+
+Dataset Selection: Instruct students to choose a dataset suitable for a predictive modeling task. The dataset should have both numerical and categorical features. Encourage them to consider datasets related to topics of interest.
+
+Data Preprocessing:
+a. Handling Missing Values: Guide students on how to identify missing values in the dataset and choose appropriate strategies for handling them (e.g., imputation or removal). Explain the pros and cons of their chosen approach.
+b. Encoding Categorical Variables: Instruct students to encode categorical variables into numerical format. They can use techniques like one-hot encoding, label encoding, or target encoding, depending on the dataset's characteristics.
+c. Scaling Features: If necessary, explain the importance of feature scaling and guide students on how to scale numerical features (e.g., using z-score scaling or Min-Max scaling).
+
+Feature Engineering:
+a. Create New Features: Challenge students to come up with ideas for new features that might be relevant to the predictive modeling task. For example, they can create interaction terms, calculate ratios, or extract meaningful information from date variables.
+b. Transform Existing Features: Instruct students to apply transformations to existing features. This might include log transformations, polynomial features, or other mathematical operations.
+
+Data Splitting: Ask students to split the preprocessed and engineered dataset into training and testing sets. The typical split ratio is 70% for training and 30% for testing, but they can adjust it as needed.
+
+Explanation: Students should provide a clear explanation of their data preprocessing and feature engineering decisions. They should justify why they chose specific techniques and how these choices are relevant to the predictive modeling task.
+
+R Code: Students should include R code or R notebooks that demonstrate their data preprocessing and feature engineering steps. These should be well-documented and include comments explaining each step.
+
+Submission: Students should submit their report (PDF or Word document), R code or R notebook, and the split datasets for training and testing.

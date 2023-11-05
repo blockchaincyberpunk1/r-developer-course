@@ -1,0 +1,34 @@
+Data Visualization with ggplot2 (Part 2)
+
+Objective: To create more advanced and interactive visualizations using ggplot2.
+
+Task:
+In this assignment, students will continue exploring data visualization using the ggplot2 package in R. They will work with a dataset that includes multiple variables and will be challenged to create more advanced and interactive visualizations, including faceted plots, heatmaps, geospatial maps, and interactive elements such as tooltips.
+
+Instructions:
+
+Provide students with a dataset (in a downloadable format, e.g., CSV) that contains multiple variables and is suitable for advanced visualizations.
+
+Instruct students to perform the following tasks using ggplot2:
+a. Load the provided dataset into R using appropriate functions (e.g., read.csv or read.table).
+
+b. Use ggplot2 to create the following advanced and interactive visualizations:
+
+Faceted plots: Visualize data facets using facets_grid or facets_wrap to show subsets of data in separate panels.
+Heatmaps: Create heatmaps to display relationships between variables or patterns in the data.
+Geospatial maps: Plot data on a map using geographic coordinates and appropriate map layers.
+c. Utilize ggplot2 extensions, if necessary, to enhance visualizations. For example, students can use gganimate for creating animated plots or other ggplot2 extensions for additional features.
+
+d. Explain how to add interactive elements to plots for user engagement. Students should demonstrate how tooltips, interactivity on mouse hover, or click actions can be added to their visualizations.
+
+Encourage students to provide explanations or comments within their R script regarding the insights gained from each visualization. They should interpret the visualizations and provide meaningful observations or conclusions.
+
+Ask students to consider the appropriateness of each type of visualization for the dataset they are working with. How do these advanced visualizations enhance data understanding?
+
+Instruct students to create a written report that includes the advanced and interactive visualizations, explanations of insights, and details on how interactive elements were implemented.
+
+Set a deadline for students to complete the tasks and submit their R script/code along with the written report.
+
+Submission:
+
+After completing the tasks, students should submit their R script/code and the written report (PDF or Word document) through the course's assignment submission portal.

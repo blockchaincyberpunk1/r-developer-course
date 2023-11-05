@@ -1,0 +1,41 @@
+Comparing Models and Ensemble Learning
+
+Objective: To compare different machine learning models and explore ensemble methods.
+
+Task:
+In this assignment, students will gain experience in comparing the performance of various machine learning models and exploring ensemble methods to improve predictive accuracy. They will select a predictive modeling problem, implement multiple machine learning models, evaluate their performance, and delve into ensemble techniques. The assignment aims to deepen their understanding of model selection and ensemble learning.
+
+Instructions:
+
+Problem and Dataset Selection:
+a. Students should choose a predictive modeling problem of interest.
+b. They should select an appropriate dataset relevant to the chosen problem. The dataset should include features and a target variable.
+
+Model Implementation and Comparison:
+a. Instruct students to implement at least three different machine learning models. Suggested models could include:
+
+Logistic Regression
+Decision Trees
+Support Vector Machines (SVM)
+Random Forest
+Gradient Boosting (e.g., XGBoost or LightGBM)
+b. Each model should be trained and tested on the same dataset.
+c. Ensure that students use appropriate preprocessing techniques such as data scaling or one-hot encoding for categorical variables.
+Model Evaluation:
+a. Ask students to evaluate each model's performance using relevant evaluation metrics depending on the nature of the problem (e.g., accuracy, F1-score, RMSE).
+b. They should provide a comprehensive analysis of the strengths and weaknesses of each model.
+
+Ensemble Methods:
+a. Introduce students to ensemble methods, including bagging (e.g., Random Forest) and boosting (e.g., AdaBoost).
+b. Instruct them to implement at least one ensemble method of their choice and compare its performance to individual models.
+c. Encourage them to explain how ensemble methods work and why they might improve predictive accuracy.
+
+Report and Discussion:
+a. Students should prepare a report summarizing their findings and analysis.
+b. The report should include:
+
+Model descriptions and implementation details.
+Performance metrics for individual models and the ensemble method.
+Visualizations (e.g., ROC curves, confusion matrices).
+A discussion of the advantages and trade-offs of different models and ensemble techniques.
+Insights into which models are most suitable for the given problem.

@@ -1,0 +1,26 @@
+Hierarchical Clustering
+
+Objective: To practice hierarchical clustering in R.
+
+Task:
+In this assignment, students will gain hands-on experience with hierarchical clustering, a technique used for unsupervised learning and grouping similar data points together. Students will work with a provided dataset, perform hierarchical clustering using R, and interpret the results. They will explore different linkage methods and distance metrics to understand their impact on the clustering outcome.
+
+Instructions:
+
+Provide students with a dataset suitable for hierarchical clustering. Ensure that the dataset contains numerical variables for meaningful clustering.
+
+Instruct students to perform the following tasks using R and appropriate packages (e.g., hclust, dendextend):
+
+a. Hierarchical Clustering: Ask students to apply hierarchical clustering to the provided dataset. They should experiment with different linkage methods (e.g., complete, single, average) and distance metrics (e.g., Euclidean, Manhattan, Pearson correlation) to observe how these choices affect the clustering outcome.
+
+b. Dendrogram Visualization: Encourage students to visualize the hierarchical clustering results using a dendrogram. The dendrogram should illustrate how data points are grouped into clusters.
+
+c. Interpret Clusters: Instruct students to interpret the clusters obtained from hierarchical clustering. They should identify meaningful groups and describe the characteristics of each cluster. Discuss potential use cases or insights derived from the clustering results.
+
+d. Explore Linkage and Metrics: Students should experiment with different linkage methods and distance metrics and discuss how these choices impact the clustering outcome and the structure of the dendrogram.
+
+Encourage students to document their R code/script, including comments explaining the steps they followed during hierarchical clustering.
+
+Students should submit both their R code and a written report (PDF or Word document) that includes visualizations and explanations of the hierarchical clustering results.
+
+Evaluation Criteria:

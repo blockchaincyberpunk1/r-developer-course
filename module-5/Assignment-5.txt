@@ -1,0 +1,35 @@
+Model Tuning and Optimization
+
+Objective: To practice model tuning and hyperparameter optimization using R.
+
+Task:
+In this assignment, students will work on optimizing machine learning models through hyperparameter tuning. They will be provided with a dataset and a machine learning problem (classification or regression). Students will explore hyperparameter tuning techniques using the caret or mlr package, optimize the hyperparameters of a selected machine learning algorithm, compare the model's performance before and after tuning, and discuss the trade-offs and considerations in model optimization.
+
+Instructions:
+
+Dataset and Problem: Provide students with a dataset and specify whether it's a classification or regression problem. Ensure that the dataset includes a target variable and features.
+
+Model Selection: Ask students to choose a machine learning algorithm suitable for the given problem. Popular choices include decision trees, random forests, support vector machines, or gradient boosting.
+
+Hyperparameter Tuning: Instruct students to explore hyperparameter tuning techniques using either the caret or mlr package. They should focus on methods like grid search, random search, or Bayesian optimization to optimize the selected model's hyperparameters.
+
+Optimization Process: Students should:
+
+Define a range of hyperparameters to tune (e.g., learning rate, max depth, number of estimators).
+Implement hyperparameter tuning by searching through different combinations using the chosen technique.
+Evaluate and record the performance (e.g., accuracy, F1-score, RMSE) of the model for each combination of hyperparameters.
+Model Comparison: Have students compare the model's performance before and after hyperparameter tuning. They should use appropriate evaluation metrics and visualization techniques (e.g., learning curves, ROC curves) to illustrate the improvement.
+
+Discussion: Encourage students to discuss the trade-offs and considerations in model optimization. They should consider factors like computation time, overfitting, and the impact of hyperparameter choices on model performance.
+
+Documentation: Ensure that students provide clear documentation of their R code, including comments for explanation. They should include the code for hyperparameter tuning and model evaluation.
+
+Presentation and Report: Students should present their findings in a report or presentation. They should include the following:
+
+Introduction to the dataset and machine learning problem.
+Description of the chosen machine learning algorithm.
+Details of the hyperparameter tuning process.
+Performance comparison before and after tuning.
+Discussion of trade-offs and considerations in model optimization.
+Visualizations to support their findings.
+Submission: Students should submit their report (PDF or Word document) and R code/scripts. Encourage them to adhere to the submission deadline.

@@ -1,0 +1,35 @@
+Introduction to R Syntax and Control Structures
+
+Objective: To reinforce understanding of R's syntax and control structures.
+
+Task:
+In this assignment, students will practice writing R code to perform basic arithmetic operations, implement conditional statements (if-else) to solve problems, use loops (for or while) for repetitive tasks, and combine control structures to solve more complex problems.
+
+Instructions:
+
+Provide students with a set of coding exercises that cover a range of R syntax and control structures. These exercises should gradually increase in complexity to challenge students at different skill levels.
+
+Instruct students to use the R programming environment to complete the exercises. They can use RStudio or any other R development environment they are comfortable with.
+
+The exercises may include tasks such as:
+a. Basic arithmetic operations: Ask students to write R code to perform addition, subtraction, multiplication, and division of numbers. They can also be tasked with solving equations and displaying the results.
+
+b. Conditional statements: Assign problems that require students to use if-else statements to make decisions based on conditions. For example, they can write code to determine whether a number is positive or negative.
+
+c. Loops: Include exercises that involve using for or while loops to perform repetitive tasks. For instance, students can be asked to write code to calculate the factorial of a number using a loop.
+
+d. Combining control structures: Present more complex problems that require students to use a combination of arithmetic operations, conditional statements, and loops to solve. For example, they can write code to find the sum of all even numbers in a given range.
+
+Encourage students to comment their code to explain their thought process and the logic behind their solutions.
+
+Emphasize the importance of writing efficient and readable code.
+
+Set a deadline for students to complete the exercises and submit their R scripts.
+
+Optionally, you can provide sample input and expected output for some exercises to facilitate self-assessment.
+
+Allow students to ask questions or seek clarification on the exercises during the assignment period.
+
+Submission:
+
+After completing the exercises, students should submit their R scripts or code files, along with any optional documentation, through the course's assignment submission portal.

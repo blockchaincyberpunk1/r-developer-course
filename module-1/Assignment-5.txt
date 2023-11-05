@@ -1,0 +1,33 @@
+R and Basic Statistics
+
+Objective: To apply statistical concepts using R.
+
+Task:
+In this assignment, students will apply statistical concepts using the R programming language. They will be provided with a dataset and will perform various statistical analyses, including calculating basic statistical measures, conducting hypothesis tests, and visualizing data distributions to draw conclusions.
+
+Instructions:
+
+Provide students with a dataset (in a downloadable format, e.g., CSV) that they will use for this assignment. The dataset should contain relevant data for statistical analysis.
+
+Instruct students to perform the following tasks on the dataset:
+a. Calculate basic statistical measures: Ask students to calculate measures such as mean, median, variance, standard deviation, and quartiles for one or more numeric variables in the dataset. They should use appropriate R functions for these calculations.
+
+b. Conduct hypothesis tests: Assign students specific hypothesis testing tasks based on the dataset. Examples include:
+
+Performing a t-test to compare means of two groups.
+Conducting a chi-squared test for independence to analyze categorical data.
+Conducting correlation tests to determine relationships between variables.
+Choosing appropriate statistical tests based on the nature of the data and the research questions.
+c. Visualize data distributions: Instruct students to create meaningful visualizations of the data. They can use R packages like ggplot2 for creating plots such as histograms, box plots, scatter plots, and bar charts to visualize data distributions and relationships between variables.
+
+Emphasize the importance of documenting their analysis process and providing clear explanations of the results and conclusions drawn from the statistical analyses.
+
+Encourage students to comment their R code to explain each step of the analysis and interpretation.
+
+Set a deadline for students to complete the tasks and submit their R script/code, along with a written report summarizing their findings and insights.
+
+Optionally, provide guidelines for formatting and presenting statistical results in their written reports.
+
+Submission:
+
+After completing the tasks, students should submit their R script/code and a written report (PDF or Word document) summarizing their statistical analysis, findings, and insights through the course's assignment submission portal.

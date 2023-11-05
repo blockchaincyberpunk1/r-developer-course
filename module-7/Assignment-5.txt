@@ -1,0 +1,39 @@
+Collaborative Data Analysis with Git and GitHub
+
+Objective: To collaborate on a data analysis project using Git and GitHub.
+
+Task:
+In this assignment, students will work in teams to perform a collaborative data analysis project using Git and GitHub. The objective is to simulate a real-world collaborative data analysis workflow, emphasizing version control, teamwork, and effective project management.
+
+Instructions:
+
+Team Formation:
+a. Instruct students to form teams consisting of 2-4 members each.
+b. Encourage diversity within teams to promote a variety of perspectives and skills.
+
+Project Selection:
+a. Each team should choose a collaborative data analysis project. The dataset and analysis task should be well-defined.
+b. Ensure that the chosen project allows for different roles within the team, such as data cleaning, exploratory data analysis (EDA), modeling, and documentation.
+
+GitHub Repository:
+a. Guide each team to create a shared Git repository on GitHub to store all project-related files, including code, data, and documentation.
+b. Teams should choose one member to act as the repository owner or maintainer, responsible for setting up the repository and granting access to team members.
+c. The repository should include a README file that describes the project, lists team members, and provides instructions for reproducing the analysis.
+
+Role Assignment:
+a. Within each team, assign roles to team members based on their strengths and interests.
+b. Common roles may include data cleaning, EDA, modeling, visualization, and documentation.
+
+Collaborative Development:
+a. Instruct teams to use Git for collaborative development. Each team member should clone the shared repository to their local environment.
+b. Emphasize the importance of creating branches for different tasks or features.
+c. Encourage regular commits, clear commit messages, and pulling changes from the remote repository to stay up to date.
+
+Collaborative Analysis:
+a. Teams should collaborate on the data analysis process, with each member focusing on their assigned role.
+b. Data cleaning, EDA, modeling, and other tasks should be well-documented within the project repository.
+c. Ensure that teams communicate effectively, share progress, and address any challenges or roadblocks.
+
+Final Presentation:
+a. Each team should prepare a final presentation or report that summarizes the collaborative data analysis process and its findings.
+b. During the presentation, teams should highlight individual contributions and demonstrate the value of teamwork.

@@ -1,0 +1,31 @@
+Exploratory Data Analysis (EDA) with Clean Data
+
+Objective: To perform EDA on cleaned data.
+
+Task:
+In this assignment, students will build upon the cleaned dataset from Assignment 1 and conduct exploratory data analysis (EDA). The objective is to gain insights into the data by creating visualizations, summarizing statistics, and identifying trends and patterns.
+
+Instructions:
+
+Cleaned Dataset:
+a. Instruct students to use the cleaned dataset they prepared in Assignment 1.
+b. Emphasize the importance of using a cleaned dataset to ensure the accuracy of EDA results.
+
+Exploratory Data Analysis (EDA):
+a. Ask students to load the cleaned dataset into R.
+b. Guide them in conducting EDA, which may include the following steps:
+
+Creating visualizations such as histograms, box plots, scatter plots, and bar charts to explore the distribution of variables.
+Calculating and visualizing summary statistics (e.g., mean, median, standard deviation) for relevant variables.
+Identifying and visualizing correlations between variables, using techniques like scatter plots or correlation matrices.
+Exploring trends and patterns in the data, especially those that are relevant to the dataset's context.
+Using appropriate visualization packages such as ggplot2 for creating insightful plots.
+Insights and Hypotheses:
+a. Instruct students to generate insights based on their EDA findings. What interesting patterns or trends have they discovered?
+b. Encourage them to formulate hypotheses for further analysis. These hypotheses can be related to relationships between variables, potential predictors, or trends over time.
+c. Emphasize the importance of critical thinking and data-driven decision-making in this phase.
+
+Presentation:
+a. Ask students to present their EDA findings in a well-structured report or presentation.
+b. Require them to include visualizations, summary statistics, and key insights.
+c. Encourage them to discuss the relevance of their findings to the dataset's domain and potential implications for future analysis.

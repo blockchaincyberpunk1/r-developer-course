@@ -1,0 +1,32 @@
+Data Reshaping with tidyr
+
+Objective: To practice data reshaping tasks using the tidyr package.
+
+Task:
+In this assignment, students will focus on data reshaping using the tidyr package in R. They will be provided with a wide-format dataset and will need to load the dataset into R, use tidyr functions (e.g., pivot_longer, pivot_wider, gather, spread) to reshape the data into a more suitable format, and explain the importance of data reshaping in real-world data analysis.
+
+Instructions:
+
+Provide students with a wide-format dataset (in a downloadable format, e.g., CSV) that requires data reshaping.
+
+Instruct students to perform the following data reshaping tasks using the tidyr package:
+a. Load the provided wide-format dataset into R using appropriate functions (e.g., read.csv or read.table).
+
+b. Utilize tidyr functions to reshape the data as necessary. Depending on the dataset, this may involve:
+
+Converting from wide to long format (pivot_longer, gather).
+Converting from long to wide format (pivot_wider, spread).
+Separating or uniting columns to restructure the data.
+c. Ensure that the reshaped dataset is in a format that is more suitable for analysis, visualization, or further data processing.
+
+Encourage students to provide explanations or comments within their R script regarding the importance of data reshaping. They should explain why the initial wide format was less suitable for analysis and how the reshaped data enhances its usability.
+
+Ask students to consider and document any challenges or considerations they encountered during the reshaping process, such as handling missing data or dealing with multiple variables.
+
+Instruct students to provide a written report that includes the reshaped dataset and explanations of the reshaping process. The report should emphasize the significance of data reshaping in real-world data analysis.
+
+Set a deadline for students to complete the tasks and submit their R script/code along with the written report.
+
+Submission:
+
+After completing the tasks, students should submit their R script/code and the written report (PDF or Word document) through the course's assignment submission portal.

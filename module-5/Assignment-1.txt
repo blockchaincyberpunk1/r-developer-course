@@ -1,0 +1,35 @@
+Supervised Learning with caret
+
+Objective: To build and evaluate supervised machine learning models using the caret package in R.
+
+Task:
+In this assignment, students will practice building and evaluating supervised machine learning models using the caret package in R. They will work with a labeled dataset suitable for supervised learning, split the data into training and testing sets, and train multiple models to compare their performance.
+
+Instructions:
+
+Dataset Selection: Provide students with a labeled dataset suitable for supervised learning. Depending on the course's focus, the dataset can be for classification or regression tasks. Encourage them to choose a dataset that interests them or relates to their field of study.
+
+Data Splitting: Instruct students to split the dataset into a training set and a testing set. The typical split ratio is 70-80% for training and 20-30% for testing, but this can vary based on dataset size and preferences.
+
+Model Selection: Ask students to choose a variety of supervised machine learning algorithms available in the caret package. Suggest including at least three different types of models, such as decision trees, random forests, and linear regression.
+
+Model Training: Have students train each selected model using the training dataset. They should configure the models and use appropriate settings for each algorithm.
+
+Model Evaluation: Instruct students to evaluate the models using appropriate performance metrics based on the type of task:
+
+For Classification: Metrics like accuracy, precision, recall, F1-score, and ROC AUC.
+For Regression: Metrics like RMSE, MAE, and R-squared.
+Comparison and Selection: Have students compare and contrast the performance of different models based on the evaluation metrics. Ask them to select the best-performing model for the given task.
+
+Results and Analysis: In their report or presentation, students should include:
+
+Introduction and background information about the dataset and task.
+Data preprocessing steps, if any.
+Details of the models selected, including configuration.
+Evaluation results, including performance metrics.
+A comparison of model performances and a justification for the chosen model.
+Visualizations (e.g., ROC curves, scatter plots) if applicable.
+Interpretation of the results and insights gained from the analysis.
+Documentation: Students should provide clear documentation of their R code, including comments for explanation. Ensure that they include the code for data splitting, model training, and evaluation.
+
+Submission: Students should submit their report (PDF or Word document) and R code/scripts. Encourage them to adhere to the submission deadline.

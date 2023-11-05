@@ -1,0 +1,36 @@
+Introduction to R Functions
+
+Objective: To practice creating and using functions in R.
+
+Task:
+In this assignment, students will practice creating custom R functions to perform specific data analysis tasks. They will be presented with a set of data analysis tasks and will be required to create functions to address those tasks. Additionally, they will apply these functions to a dataset and provide the results.
+
+Instructions:
+
+Provide students with a dataset (in a downloadable format, e.g., CSV) that they will use for this assignment. The dataset should be suitable for the data analysis tasks.
+
+Present a list of data analysis tasks to the students, such as:
+a. Calculate the mean (average) of a numeric variable in the dataset.
+b. Calculate the standard deviation of a numeric variable.
+c. Normalize a numeric variable (e.g., scale it to have a mean of 0 and standard deviation of 1).
+d. Create a function to filter rows based on specific criteria (e.g., filter rows where a variable is above a certain threshold).
+e. Calculate summary statistics (mean, median, minimum, maximum) for a numeric variable.
+f. Perform a data transformation (e.g., log transformation) on a numeric variable.
+
+Instruct students to create custom R functions to address these data analysis tasks. Each task should be associated with a separate function. The functions should be appropriately named and include clear documentation (comments) explaining their purpose and usage.
+
+Ask students to load the provided dataset into R using appropriate functions or packages.
+
+Instruct students to apply the custom functions they've created to the dataset and display the results. They should ensure that the functions work correctly and produce the expected outcomes.
+
+Encourage students to test their functions on different datasets or variable names to ensure versatility and robustness.
+
+Emphasize the importance of writing efficient and well-documented functions for future use.
+
+Set a deadline for students to complete the tasks and submit their R script containing the functions and the code demonstrating their application.
+
+Optionally, you can provide sample datasets and expected results for some tasks to facilitate self-assessment.
+
+Submission:
+
+After completing the tasks, students should submit their R script containing the custom functions and the code demonstrating their application to the dataset through the course's assignment submission portal.

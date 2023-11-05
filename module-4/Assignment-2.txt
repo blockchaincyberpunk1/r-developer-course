@@ -1,0 +1,24 @@
+Principal Component Analysis (PCA)
+
+Objective: To perform dimensionality reduction using PCA in R.
+
+Task:
+In this assignment, students will learn and apply Principal Component Analysis (PCA) in R to reduce the dimensionality of a high-dimensional dataset. PCA is a powerful technique commonly used in data analysis and machine learning for feature selection and visualization. The primary goal is to help students understand how PCA works, interpret the results, and discuss the implications of dimensionality reduction.
+
+Instructions:
+
+Provide students with a high-dimensional dataset. Ensure that the dataset has more variables (features) than observations to make dimensionality reduction meaningful.
+
+Instruct students to perform the following tasks using R and the appropriate packages (e.g., prcomp from the base package or alternative PCA packages like FactoMineR or pcaMethods):
+
+a. Apply PCA: Ask students to apply Principal Component Analysis (PCA) to the provided dataset to reduce its dimensions. They should choose an appropriate number of principal components to retain based on the explained variance or specific requirements.
+
+b. Visualize PCA Results: Encourage students to visualize the data in the reduced-dimensional space. This can be achieved through scatter plots or biplots that show the data points and the principal components.
+
+c. Interpret Principal Components: Instruct students to interpret the principal components obtained from PCA. They should explain the meaning of each principal component and identify which original variables (features) contribute most to each component.
+
+d. Discuss Implications: Require students to discuss the implications of dimensionality reduction using PCA. They should consider how reduced dimensionality affects data analysis, modeling, and visualization. Discuss both the benefits (e.g., simplified models, faster computations) and potential limitations (e.g., loss of information) of dimensionality reduction.
+
+Encourage students to document their R code/script, including comments explaining the steps they followed during PCA.
+
+Students should submit both their R code and a written report (PDF or Word document) that includes visualizations and explanations of the PCA results.

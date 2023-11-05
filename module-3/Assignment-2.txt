@@ -1,0 +1,35 @@
+Hypothesis Testing
+
+Objective: To perform hypothesis testing and understand p-values.
+
+Task:
+In this assignment, students will apply hypothesis testing techniques in R to test a research question using a provided dataset. They will formulate null and alternative hypotheses, conduct hypothesis tests (e.g., t-test, chi-squared test) in R, calculate p-values, draw conclusions based on the results, and interpret the practical significance of their findings.
+
+Instructions:
+
+Provide students with a research question and a dataset that is relevant to the research question. Ensure that the dataset is suitable for hypothesis testing (e.g., contains categorical or numeric variables of interest).
+
+Instruct students to perform the following tasks using R:
+a. Formulate null and alternative hypotheses based on the research question. Clearly state what is being tested and what the expected outcome is.
+
+b. Choose an appropriate hypothesis test based on the nature of the data and the research question. Common tests include:
+
+Two-sample t-test for comparing means of two groups.
+Chi-squared test for testing associations between categorical variables.
+One-sample t-test for comparing a sample mean to a population mean.
+Wilcoxon rank-sum test for non-parametric data.
+c. Conduct the selected hypothesis test in R using appropriate functions or packages.
+
+d. Calculate p-values for the tests. Ensure that students understand the concept of p-values and their interpretation in hypothesis testing.
+
+Ask students to draw conclusions based on the calculated p-values. They should decide whether to reject or fail to reject the null hypothesis and provide reasons for their decisions.
+
+Encourage students to interpret the practical significance of their findings. Are the results of the hypothesis test practically meaningful? What implications do the findings have for the research question?
+
+Challenge students to consider the limitations and assumptions of the chosen hypothesis test and discuss how these might impact the results and conclusions.
+
+Set a deadline for students to complete the tasks and submit their R code, along with a written report explaining their hypotheses, the hypothesis test used, the p-values, and their conclusions.
+
+Submission:
+
+Students should submit their R script/code and the written report (PDF or Word document) through the course's assignment submission portal.

@@ -1,0 +1,34 @@
+Basic Data Manipulation in R
+
+Objective: To practice data manipulation skills using R.
+
+Task:
+In this assignment, students will work with a dataset provided to them and use R to perform basic data manipulation tasks. They will load the dataset, select specific columns of interest, filter rows based on specific criteria, create new variables or columns based on existing data, and export the modified dataset as a CSV file.
+
+Instructions:
+
+Provide students with a dataset (in a downloadable format, e.g., CSV) that they will use for this assignment. Ensure that the dataset is sufficiently complex to allow for meaningful data manipulation.
+
+Instruct students to load the dataset into R using appropriate functions or packages. They should ensure that the data is imported correctly and that they can access its contents.
+
+Ask students to perform the following data manipulation tasks on the dataset:
+a. Select specific columns of interest: Guide students in choosing a subset of columns from the dataset that are relevant to the task. They should retain only these selected columns for further processing.
+
+b. Filter rows based on specific criteria: Instruct students to define filtering criteria and retain only the rows that meet those criteria. They should use logical conditions to filter rows based on values in one or more columns.
+
+c. Create new variables or columns: Encourage students to derive new variables or columns from the existing data. They can use calculations, transformations, or conditional statements to create these new variables.
+
+Emphasize the importance of labeling or naming the modified dataset and the new variables or columns clearly to avoid confusion.
+
+Instruct students to export the modified dataset as a CSV file. They should use an appropriate function or package to write the data to a CSV file with a meaningful name.
+
+Encourage students to comment their R code to explain each step of the data manipulation process.
+
+Ask students to submit both their R script/code (if used) and the modified dataset (CSV file) as part of their assignment.
+
+Assignment Variation:
+To add complexity to the assignment, you can provide students with multiple datasets and ask them to choose one for manipulation. Additionally, you can ask students to perform more advanced data manipulation tasks, such as merging datasets, reshaping data, or handling missing values.
+
+Submission:
+
+After completing the assignment, students should submit their R script/code (if used) and the modified dataset (CSV file) through the course's assignment submission portal.

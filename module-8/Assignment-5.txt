@@ -1,0 +1,34 @@
+Keeping Up with R Trends
+
+Objective: To encourage students to stay informed about the latest developments and trends in the R ecosystem and reflect on the impact on their data science skills.
+
+Task:
+In this assignment, students will actively engage with R-related blogs, websites, or newsletters to stay updated on the latest developments and trends in the R ecosystem. They will read, summarize, and share interesting articles, tutorials, or news with the class. Additionally, students will reflect on how staying informed benefits their data science skills and knowledge.
+
+Instructions:
+
+Select R-Related Sources:
+a. Ask students to choose one or more R-related sources for staying updated. These sources can include R blogs, websites (e.g., R-bloggers, R Weekly), newsletters, or social media accounts.
+b. Encourage them to explore a variety of sources to gain a comprehensive view of the R ecosystem.
+
+Regular Reading and Summarization:
+a. Instruct students to regularly read articles, tutorials, or news from their chosen sources.
+b. Encourage them to select content that they find interesting, informative, or relevant to their data science interests.
+c. For each selected article or resource, students should write a concise summary.
+
+Sharing with the Class:
+a. Create a platform (e.g., discussion forum, class blog) where students can share their summaries and insights.
+b. Ask each student to post their summaries along with a brief explanation of why they found the content noteworthy.
+c. Encourage discussions and comments on shared summaries.
+
+Reflective Writing:
+a. Assign reflective writing tasks where students analyze the impact of staying informed on their data science skills and knowledge.
+b. Questions for reflection may include:
+
+How has staying updated on R trends benefited your data science journey?
+Have you discovered new tools, packages, or techniques that you've integrated into your work?
+How has your awareness of the R community and its activities evolved?
+c. Students should submit their reflective writings.
+Class Discussion:
+a. Organize a class discussion or presentation session where students can share their insights from the assignment.
+b. Encourage students to discuss the most interesting trends they've discovered and how these trends can be applied in real-world data science projects.

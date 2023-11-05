@@ -1,0 +1,45 @@
+Data Exploration and Visualization
+
+Objective: To apply data exploration and visualization techniques using R.
+
+Task:
+In this assignment, students will work with a dataset provided to them (e.g., a CSV file) and use R to perform data exploration and visualization. They will load the dataset, explore its characteristics by summarizing key statistics, and create various types of plots to visualize different aspects of the data. Finally, they will compile their findings and insights into a written report.
+
+Instructions:
+
+Provide students with the dataset (in a downloadable format, e.g., CSV) that they will use for this assignment. The dataset should be sufficiently complex to allow for meaningful data exploration and visualization.
+
+Instruct students to load the dataset into R using appropriate functions or packages. They should ensure that the data is imported correctly and that they can access its contents.
+
+Guide students in exploring the dataset by performing the following tasks:
+a. Calculate and summarize key statistics for relevant numerical variables (e.g., mean, median, standard deviation, quartiles).
+b. Examine the structure of the dataset to understand the data types and variable names.
+c. Identify any missing values and decide how to handle them (e.g., impute, remove).
+d. Explore the distribution of categorical variables by counting unique values.
+e. Consider using summary tables or cross-tabulations to gain insights into relationships between variables.
+
+Encourage students to create a variety of plots to visualize different aspects of the data. They should consider using the following types of plots (as relevant to the dataset):
+
+Histograms or density plots for numerical variables.
+Scatter plots for relationships between numerical variables.
+Bar charts or pie charts for categorical variables.
+Box plots to visualize data distributions and outliers.
+Line plots for time series data, if applicable.
+Instruct students to label their plots appropriately with titles, axis labels, and legends for clear interpretation.
+
+Ask students to write a report summarizing their findings and insights from the data exploration and visualization process. The report should include the following sections:
+
+Introduction: Describe the dataset and its context.
+Data Exploration: Present key statistics, data structure, handling of missing values, and insights from summary tables.
+Data Visualization: Include plots and discuss the visual patterns or trends observed.
+Conclusion: Summarize the main findings and insights obtained from the data exploration and visualization.
+Emphasize the importance of clear and concise communication in their reports.
+
+Encourage students to submit both their R script/code (if applicable) and the written report as part of their assignment.
+
+Assignment Variation:
+To add complexity to the assignment, you can provide students with multiple datasets and ask them to choose one for exploration and visualization. This allows them to select a dataset that aligns with their interests.
+
+Submission:
+
+After completing the assignment, students should submit their R script/code (if used) and the written report through the course's assignment submission portal.

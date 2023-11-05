@@ -1,0 +1,36 @@
+Reproducible Data Analysis
+
+Objective: To practice creating reproducible data analysis projects.
+
+Task:
+In this assignment, students will build a complete and reproducible data analysis project using Jupyter Notebook (Python) or R Markdown (R). The goal is to emphasize the importance of clear documentation, version control, and code organization for reproducibility and collaboration in data analysis tasks.
+
+Instructions:
+
+Dataset and Analysis Task:
+a. Instruct students to choose a dataset that is suitable for a data analysis task (e.g., regression, classification, clustering).
+b. Define a specific data analysis task or question that they aim to answer using the chosen dataset.
+
+Data Analysis Workflow:
+a. Guide students to develop a comprehensive data analysis workflow in either Jupyter Notebook (Python) or R Markdown (R).
+b. The workflow should include the following components:
+
+Data loading: Import the dataset into the notebook.
+Data preprocessing: Clean, handle missing values, and format the data appropriately.
+Data exploration: Generate visualizations and summary statistics to understand the data.
+Model development: Apply appropriate machine learning or statistical techniques for the chosen task.
+Model evaluation: Assess model performance using relevant metrics.
+Interpretation: Provide insights and conclusions based on the analysis results.
+c. Encourage students to organize their code into sections or cells, adding explanations, comments, and markdown cells to make the analysis easy to follow.
+Version Control with Git:
+a. Ensure that students use Git for version control throughout the project.
+b. They should make regular commits with clear and informative commit messages.
+c. Emphasize the importance of branching for experimental work and merging changes back into the main project.
+
+Documentation:
+a. Instruct students to include a README file in the project directory that provides an overview of the project's purpose and how to reproduce the analysis.
+b. Encourage them to add explanations and interpretations throughout the notebook, making it self-contained and understandable to others.
+
+Code Quality:
+a. Emphasize the significance of code readability and organization. Students should follow best practices for code structure and naming conventions.
+b. Encourage them to use meaningful variable names and comments to explain complex or non-intuitive code segments.

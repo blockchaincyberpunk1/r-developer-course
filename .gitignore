@@ -1,0 +1,160 @@
+# R specific #
+##############
+
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# User-specific files
+.Ruserdata
+
+# Example code in package build process
+*-Ex.R
+
+# RStudio files
+.Rproj.user/
+.Rproj.user.old/
+.Rproj
+.Rbuildignore
+.Rprofile
+.Renviron
+.Renviron.private
+
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+vignettes/cache/
+vignettes/figure/
+
+# R Markdown intermediate files
+*.nb.html
+.Rmd
+.Rmarkdown
+*.knit.md
+*.utf8.md
+
+# R Markdown output - render with keep_md: true
+*.md
+
+# R Notebook files
+*.nb.html
+
+# knitr and R markdown intermediate and output files
+*_files/
+*_cache/
+
+# Compiled code #
+################
+
+*.dll
+*.so
+*.dylib
+
+# Package build artifacts #
+###########################
+
+*.tar.gz
+*.Rcheck/
+^cran-comments\.md$
+
+# Packrat #
+###########
+
+/packrat/lib*
+/packrat/src*
+/packrat/bundles*
+/packrat/lib-R*
+/packrat/packrat.lock
+
+# renv #
+########
+
+/renv/library/
+/renv/local/
+renv.lock
+
+# Bookdown #
+############
+
+_book/
+_bookdown_files/
+
+# Blogdown #
+############
+
+/public/
+/resources/
+/content/post/*/index_files/
+/content/post/*/index_cache/
+/blogdown/
+.hugo_build.lock
+
+# Plumber #
+###########
+
+plumber.R
+
+# Others #
+#########
+
+# LaTeX temporary files
+*.aux
+*.bbl
+*.blg
+*.fls
+*.log
+*.fdb_latexmk
+
+# Databases
+*.rds
+*.RData
+
+# Mac files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Python virtual environments
+venv/
+ENV/
+
+# Private keys
+*.pem
+
+# Serialized R objects
+*.rds
+*.RData
+
+# Session storage for RStudio
+.rs/
+
+# Test outputs
+/tests/testthat/_snaps/
+
+# Rcpp attributes
+RcppExports.cpp
+RcppExports.R
+
+# HTTR authentication tokens
+.httr-oauth
+
+# Plumber API specs
+plumber.json
+
+# Docker build
+.Dockerignore
+docker-compose.yml
+Dockerfile
+
+# Shiny app specific
+shinyapps/
+
+
+/articles
+/guides
+/infographics
+/presentations

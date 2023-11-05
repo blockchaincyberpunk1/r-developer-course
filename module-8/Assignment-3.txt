@@ -1,0 +1,44 @@
+R Package Contribution
+
+Objective: To foster students' involvement in the open-source R community and encourage contributions to R packages.
+
+Task:
+In this assignment, students will have the opportunity to actively engage with the open-source R community by contributing to an existing R package. They will be tasked with identifying a suitable package, addressing an issue, and documenting their contribution process.
+
+Instructions:
+
+Package Selection:
+a. Instruct students to identify an open-source R package that aligns with their interests, domain knowledge, or expertise.
+b. Encourage them to explore packages hosted on platforms like GitHub or CRAN.
+
+Issue Identification:
+a. Ask students to browse the selected package's repository (e.g., GitHub) to find potential issues or enhancement requests.
+b. Encourage them to select an issue that they feel confident in addressing.
+c. Ensure that they understand the issue and the package's codebase.
+
+Contribution:
+a. Instruct students to contribute to the selected package by addressing the chosen issue.
+b. Contributions can take various forms, including:
+
+Fixing a bug in the package's code.
+Implementing a new feature or enhancement.
+Improving package documentation.
+c. They should follow best practices for open-source contributions, such as:
+Forking the package repository.
+Creating a feature branch for their contribution.
+Writing clean, well-documented code.
+Making a pull request to the original package repository.
+Documentation:
+a. Require students to document their contribution process.
+b. The documentation should include:
+
+A description of the selected issue and why they chose it.
+Details of the changes they made, including code snippets.
+Any challenges or roadblocks encountered during the contribution process.
+The URL of their pull request (PR).
+Peer Review:
+a. Encourage students to share their contributions and documentation with peers for feedback.
+b. Peer review can help improve the quality of their contributions.
+
+Submission:
+a. Ask students to submit their documented contribution process, including links to their pull requests.

@@ -1,0 +1,26 @@
+Unsupervised Learning with mlr
+
+Objective: To explore unsupervised learning techniques using the mlr package in R.
+
+Task:
+In this assignment, students will delve into unsupervised learning techniques using the mlr package in R. They will work with an unlabeled dataset suitable for unsupervised learning, perform clustering using various algorithms from the mlr package, and evaluate the quality of clusters.
+
+Instructions:
+
+Dataset Selection: Provide students with an unlabeled dataset suitable for unsupervised learning. Encourage them to choose a dataset that aligns with their interests or field of study. The dataset should not contain any explicit labels or target variables.
+
+Clustering Algorithms: Instruct students to perform clustering on the dataset using different clustering algorithms available in the mlr package. Suggest including at least two different clustering methods, such as k-means and hierarchical clustering. Students should configure these algorithms as needed.
+
+Data Exploration: Before clustering, students should conduct initial data exploration to understand the dataset's characteristics. This might involve checking for missing values, scaling or transforming features, and visualizing data distributions.
+
+Clustering Analysis: Have students apply the selected clustering algorithms to the dataset. They should specify the number of clusters (if applicable) and perform the clustering.
+
+Visualization: Instruct students to visualize the clustered data. Visualization techniques could include scatter plots, heatmaps, or dendrograms, depending on the type of clustering performed.
+
+Evaluation Metrics: Ask students to evaluate the quality of clusters using appropriate clustering metrics. Common metrics for clustering include silhouette score, Davies-Bouldin index, and within-cluster sum of squares (WCSS) for k-means.
+
+Discussion and Insights: In their report or presentation, students should discuss the clustering results. They should provide insights into the meaningfulness of the clusters, potential use cases, and any patterns or trends discovered.
+
+Documentation: Students should provide clear documentation of their R code, including comments for explanation. Ensure that they include the code for data exploration, clustering, and visualization.
+
+Submission: Students should submit their report (PDF or Word document) and R code/scripts. Encourage them to adhere to the submission deadline.

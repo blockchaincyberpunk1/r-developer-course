@@ -1,0 +1,33 @@
+Basic Data Manipulation with dplyr
+
+Objective: To practice data manipulation tasks using the dplyr package.
+
+Task:
+In this assignment, students will practice basic data manipulation tasks using the dplyr package in R. They will be provided with a dataset and will use various dplyr functions (e.g., filter, select, mutate, arrange) to perform data manipulation tasks. Additionally, they will be required to apply multiple dplyr functions to transform and filter data effectively and provide a report explaining the steps taken and the results obtained.
+
+Instructions:
+
+Provide students with a dataset (in a downloadable format, e.g., CSV) that they will use for this assignment. The dataset should be suitable for data manipulation tasks.
+
+Instruct students to perform the following data manipulation tasks using the dplyr package:
+a. Load the dataset into R using appropriate functions (e.g., read.csv or read.table).
+
+b. Use dplyr functions to filter rows based on specific criteria. For example, they can filter rows where a certain variable meets a condition.
+
+c. Use the select function to choose specific columns of interest from the dataset.
+
+d. Apply the mutate function to create new variables or modify existing ones based on calculations or transformations.
+
+e. Use the arrange function to reorder rows based on one or more variables, such as sorting in ascending or descending order.
+
+Encourage students to combine multiple dplyr functions to perform more complex data manipulations. For example, they can filter rows, select specific columns, and then arrange the data in a single pipeline.
+
+Instruct students to document their data manipulation process using comments within their R script. They should explain the purpose of each step and any criteria used for filtering or selecting data.
+
+Ask students to provide a written report summarizing the results of their data manipulation. The report should explain the steps they took, the transformations applied, and the final state of the data after manipulation.
+
+Set a deadline for students to complete the tasks and submit their R script/code along with the written report.
+
+Submission:
+
+After completing the tasks, students should submit their R script/code and the written report (PDF or Word document) through the course's assignment submission portal.

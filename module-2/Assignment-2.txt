@@ -1,0 +1,36 @@
+Advanced Data Manipulation with dplyr
+
+Objective: To further enhance data manipulation skills using dplyr.
+
+Task:
+In this assignment, students will build upon their data manipulation skills by working with a more complex dataset and using advanced dplyr functions. They will be presented with a challenging dataset and will need to perform data transformations, summarizations, aggregations, handle missing data, outliers, and data cleansing tasks. Additionally, they will create custom functions using dplyr verbs and generate visualizations based on the manipulated data.
+
+Instructions:
+
+Provide students with a more complex dataset (in a downloadable format, e.g., CSV) that requires advanced data manipulation.
+
+Instruct students to perform the following advanced data manipulation tasks using the dplyr package:
+a. Load the provided dataset into R using appropriate functions (e.g., read.csv or read.table).
+
+b. Apply dplyr functions to perform complex data transformations, including but not limited to:
+
+Grouping data by one or more variables and summarizing values within each group.
+Handling missing data by imputing values or excluding incomplete records.
+Identifying and handling outliers in the data.
+Merging or joining multiple datasets based on common keys.
+Reshaping data from wide to long format or vice versa.
+c. Create custom functions using dplyr verbs (e.g., summarise, filter) to apply to the dataset. These custom functions should serve specific data manipulation needs.
+
+d. Generate visualizations (e.g., advanced plots, heatmaps) based on the manipulated data to provide insights or patterns.
+
+Encourage students to use dplyr's pipe operator (%>%) to create clear and readable data manipulation pipelines.
+
+Instruct students to document their data manipulation process using comments within their R script. They should explain the purpose of each step and the rationale behind their choices.
+
+Ask students to provide a written report summarizing the results of their advanced data manipulation. The report should include explanations of the transformations, handling of missing data, outliers, and custom functions used.
+
+Set a deadline for students to complete the tasks and submit their R script/code along with the written report.
+
+Submission:
+
+After completing the tasks, students should submit their R script/code and the written report (PDF or Word document) through the course's assignment submission portal.

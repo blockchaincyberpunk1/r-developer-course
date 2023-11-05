@@ -1,0 +1,25 @@
+Advanced ggplot2 Visualizations
+
+Objective: To practice advanced data visualization using ggplot2.
+
+Task:
+In this assignment, students will further enhance their data visualization skills using the ggplot2 package in R. They will be presented with a complex dataset and challenged to create advanced visualizations, including faceted plots grouped by multiple variables, customized themes, color scales, annotations, and interactive plots using ggplot2 extensions. Additionally, students will need to provide a written explanation of the insights gained from their visualizations.
+
+Instructions:
+
+Provide students with a complex dataset that contains multiple variables and observations. Ensure that the dataset is suitable for advanced visualizations and exploration.
+
+Instruct students to use the ggplot2 package in R to create advanced visualizations based on the provided dataset. The tasks include:
+a. Creating faceted plots: Ask students to create faceted plots, also known as trellis plots, by grouping data based on multiple variables. This should result in multiple small plots within one visualization, allowing for comparisons across different groups.
+
+b. Customizing themes and color scales: Encourage students to customize the appearance of their plots by specifying themes and color scales that align with the data and improve interpretability.
+
+c. Adding annotations: Instruct students to add annotations, such as labels, titles, or additional information, to their plots to provide context and insights.
+
+d. Interactive plots: Challenge students to use ggplot2 extensions (e.g., gganimate, plotly, or ggiraph) to create interactive plots that allow users to explore the data dynamically.
+
+Require students to thoroughly document their code and include comments to explain their approach to creating the advanced visualizations.
+
+Students should provide a written report that explains the insights gained from their visualizations. They should discuss patterns, trends, or anomalies observed in the data as well as any meaningful conclusions or implications.
+
+Encourage students to submit both their R code/script and the written report (PDF or Word document) through the course's assignment submission portal.

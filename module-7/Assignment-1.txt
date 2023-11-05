@@ -1,0 +1,33 @@
+Data Cleaning and Handling Missing Values
+
+Objective: To practice data cleaning and preprocessing techniques.
+
+Task:
+In this assignment, students will gain hands-on experience in data cleaning and preprocessing. They will work with a real-world dataset containing missing values, duplicated records, and inconsistencies. The goal is to clean and prepare the data for subsequent analysis.
+
+Instructions:
+
+Dataset Selection:
+a. Provide students with a dataset that includes missing values, duplicated records, and inconsistencies. Ensure that the dataset is relevant to real-world data analysis.
+b. You can use publicly available datasets or create a custom dataset for this assignment.
+
+Data Cleaning:
+a. Instruct students to load the dataset into R.
+b. Ask them to identify and handle missing values using appropriate techniques such as:
+
+Imputation (e.g., mean, median, mode)
+Removal of rows or columns with excessive missing values
+c. Guide them in detecting and removing duplicated records.
+d. Encourage students to address data inconsistencies, which may include:
+Standardizing date formats
+Converting categorical variables to a consistent format
+Handling outliers
+Documentation:
+a. Require students to maintain detailed documentation of their data cleaning process. Each step should be clearly explained.
+b. Ask them to document the reasons behind their decisions. For instance, why did they choose a particular imputation method or decide to remove certain records?
+c. Emphasize the importance of creating reproducible and well-documented code.
+
+Presentation:
+a. Instruct students to present the cleaned dataset in a structured format. This can be in the form of an R script, R Markdown document, or Jupyter Notebook.
+b. Encourage them to include summary statistics of the cleaned data, such as mean, median, standard deviation, and counts.
+c. Ask students to provide insights into the impact of data cleaning on subsequent analysis. Are there notable changes in data distribution or statistics after cleaning?

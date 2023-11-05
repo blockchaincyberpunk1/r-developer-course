@@ -1,0 +1,38 @@
+Descriptive Statistics
+
+Objective: To practice descriptive statistics using R.
+
+Task:
+In this assignment, students will work with a provided dataset to practice descriptive statistics using R. They will be tasked with loading the dataset, calculating basic summary statistics (mean, median, standard deviation, quartiles), creating various types of visualizations (histograms, box plots, and scatter plots), and writing a report summarizing the dataset's key characteristics.
+
+Instructions:
+
+Provide students with a dataset (in a downloadable format, e.g., CSV) suitable for descriptive statistics analysis.
+
+Instruct students to perform the following tasks using R:
+a. Load the provided dataset into R using appropriate functions (e.g., read.csv or read.table).
+
+b. Calculate basic summary statistics for relevant variables in the dataset. These statistics should include:
+
+Mean
+Median
+Standard deviation
+Quartiles (25th and 75th percentiles)
+c. Create various types of visualizations to explore the data's distribution:
+
+Histograms: Visualize the distribution of numeric variables.
+Box plots: Explore the spread and skewness of data.
+Scatter plots: Investigate relationships between pairs of variables.
+d. Customize the aesthetics of the visualizations to enhance readability, such as labeling axes, adding titles, and adjusting colors.
+
+Encourage students to interpret the summary statistics and visualizations. Ask them to provide insights about the dataset's central tendencies, variability, and any potential outliers or patterns they observe.
+
+Instruct students to write a comprehensive report summarizing the key characteristics of the dataset. The report should include a description of the dataset, explanations of the summary statistics, and interpretations of the visualizations.
+
+Challenge students to consider the practical significance of their findings. What insights can be derived from the descriptive statistics and visualizations, and how might these insights be useful?
+
+Set a deadline for students to complete the tasks and submit both their R script/code and the written report.
+
+Submission:
+
+Students should submit their R script/code and the written report (PDF or Word document) through the course's assignment submission portal.

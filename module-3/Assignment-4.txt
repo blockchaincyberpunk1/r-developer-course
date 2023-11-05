@@ -1,0 +1,33 @@
+Linear Regression
+
+Objective: To perform linear regression analysis using R.
+
+Task:
+In this assignment, students will practice performing linear regression analysis using a provided dataset in R. They will load a dataset with two or more variables, perform linear regression modeling to predict one variable based on another, interpret the regression results, visualize the regression line and residuals, and critically discuss the model's goodness of fit and limitations.
+
+Instructions:
+
+Provide students with a dataset that contains at least two variables, one of which they will predict based on another variable. Ensure that the dataset is suitable for linear regression analysis.
+
+Instruct students to perform the following tasks using R:
+a. Load the dataset into R and explore its structure and variables.
+
+b. Identify the dependent (response) variable and the independent (predictor) variable(s). Explain the rationale behind their choice of variables.
+
+c. Perform linear regression modeling to predict the dependent variable based on the independent variable(s). Students should use appropriate R functions or packages (e.g., lm()) for linear regression.
+
+d. Interpret the regression coefficients, R-squared value, and p-values. What do these statistics tell us about the relationship between the variables? Are they statistically significant?
+
+e. Create visualizations to represent the linear regression results. Students should plot the regression line, scatterplot of data points, and residuals to assess the model's fit.
+
+f. Discuss the goodness of fit of the regression model. Is the model a good fit for the data? What are the implications of the R-squared value?
+
+g. Identify and discuss the limitations and assumptions of linear regression. Are there any potential issues with the model's application to real-world scenarios?
+
+Encourage students to present their findings in a comprehensive written report. The report should include details on variable selection, regression results, interpretations, visualizations, goodness of fit assessment, and discussions on limitations.
+
+Set a deadline for students to complete the tasks and submit their R code and written report.
+
+Submission:
+
+Students should submit their R script/code and the written report (PDF or Word document) through the course's assignment submission portal.

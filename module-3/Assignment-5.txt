@@ -1,0 +1,33 @@
+Model Building and Evaluation
+
+Objective: To build and evaluate predictive models using linear regression.
+
+Task:
+In this assignment, students will apply their knowledge of linear regression to build predictive models on a real-world dataset. They will be challenged to select an appropriate dataset, split it into training and testing sets, build a linear regression model on the training data, evaluate the model's performance on the testing data using metrics like RMSE (Root Mean Squared Error), MAE (Mean Absolute Error), and R-squared, and suggest potential improvements or additional features that could enhance the model's accuracy.
+
+Instructions:
+
+Instruct students to choose a real-world dataset that is suitable for linear regression modeling. The dataset should contain relevant variables that can be used for prediction. Encourage them to consider datasets from various domains, such as economics, finance, healthcare, or social sciences.
+
+Explain to students the importance of splitting the dataset into training and testing sets. They should reserve a portion of the data for testing the model's performance to assess how well it generalizes to new, unseen data.
+
+Guide students on how to perform the following tasks using R:
+a. Load and preprocess the dataset, including handling missing values and scaling if necessary.
+
+b. Split the dataset into a training set (typically 70-80% of the data) and a testing set (the remaining 20-30%).
+
+c. Build a linear regression model using the training data. Students should use appropriate R functions or packages (e.g., lm()) for linear regression.
+
+d. Evaluate the model's performance on the testing data using metrics like RMSE, MAE, and R-squared. Discuss the significance of these metrics and what they indicate about the model's predictive power.
+
+e. Critically analyze the model's performance. Did it perform well? Are there any limitations or areas for improvement?
+
+f. Suggest potential improvements or additional features that could enhance the model's accuracy. Students should consider feature engineering, different regression techniques, or incorporating domain-specific knowledge.
+
+Encourage students to present their findings in a comprehensive written report. The report should include details on dataset selection, data preprocessing, model building, evaluation metrics, model performance analysis, and suggestions for improvement.
+
+Set a deadline for students to complete the tasks and submit their R code and written report.
+
+Submission:
+
+Students should submit their R script/code and the written report (PDF or Word document) through the course's assignment submission portal.
